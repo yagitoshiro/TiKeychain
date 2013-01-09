@@ -1,0 +1,3 @@
+[submodule "UICKeyChainStore"]
+	path = UICKeyChainStore
+	url = git://github.com/kishikawakatsumi/UICKeyChainStore.git

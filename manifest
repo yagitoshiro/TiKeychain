@@ -1,0 +1,19 @@
+#
+# this is your module manifest and used by Titanium
+# during compilation, packaging, distribution, etc.
+#
+version: 0.1
+apiversion: 2
+description: Improved Keychain mod for Titanium
+https://github.com/kishikawakatsumi/UICKeyChainStore
+author: Toshiro Yagi
+license: Apache 2.0
+copyright: Toshiro Yagi
+
+
+# these should not be edited
+name: TiKeychain
+moduleid: in.tidevs.mod.tikeychain
+guid: a2031fc0-1dc4-4b41-b9a6-0ff4f2c6e33b
+platform: iphone
+minsdk: 3.0.0.GA
